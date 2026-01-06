@@ -143,6 +143,8 @@ header {
     font-weight: 800;
     font-family: 'Syne', sans-serif;
     letter-spacing: 2px;
+    color: #fff;
+    /* Always white due to blend mode */
 }
 
 nav a {
